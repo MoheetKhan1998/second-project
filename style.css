@@ -1,0 +1,15 @@
+*{
+
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body{
+    background-color: black;
+}
+
+h1 a{
+    text-decoration: none;
+    color: white;
+    font-size: 2.3rem;
+    font-style: italic;
+}
